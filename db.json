@@ -1,8 +1,7 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "url": "http://www.thisismyurl.com/token?000001"
     }
   ],
   "profile": {
